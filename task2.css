@@ -1,0 +1,14 @@
+fieldset{
+    border: 2px solid cornflowerblue;
+    width: 30%;
+    margin-bottom: 20px;
+}
+input,textarea{
+    border: 1px solid cornflowerblue;
+}
+.newColor{
+    background-color: lightblue;
+}
+input:enabled,textarea:enabled{
+    outline: 1px solid cornflowerblue;
+}
