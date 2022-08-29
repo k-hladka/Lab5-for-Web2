@@ -1,0 +1,25 @@
+#container{
+    width: 70%;
+    height: 500px;
+    background-color: lightskyblue;
+    float: left;
+    margin-left: 15%;
+}
+#child1, #child2{
+    width: 45%;
+    height: 450px;
+    background-color: white;
+    margin: 25px 1%;
+}
+#child1{
+    float: left;
+}
+#child2{
+    float: right;
+}
+div+button{
+    margin-top: 25%;
+}
+button{
+    margin-left: 1%;
+}
