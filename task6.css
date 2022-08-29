@@ -1,0 +1,17 @@
+textarea{
+    float: left;
+    margin-right: 50px;
+}
+div{
+    float:left;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    padding: 20px;
+}
+.forTd{
+    background-color: darkblue;
+}
